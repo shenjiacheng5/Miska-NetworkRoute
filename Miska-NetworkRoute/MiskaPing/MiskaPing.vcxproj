@@ -20,7 +20,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{1D8BD805-34C3-4A61-B0DA-D689CF8F054D}</ProjectGuid>
+    <ProjectGuid>{87F7167A-8CF8-41A4-8848-E18E73D6139D}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>MiskaPing</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
