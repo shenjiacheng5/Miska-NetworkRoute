@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Miska-NetworkRoute", "Miska-NetworkRoute\Miska-NetworkRoute.vcxproj", "{A8B718F5-C138-4FFB-8F04-F889B86C25C9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MiskaAgreementTest", "MiskaAgreementTest\MiskaAgreementTest.vcxproj", "{848E1DF1-9393-4966-BB1B-E2D0228A21E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{A8B718F5-C138-4FFB-8F04-F889B86C25C9}.Release|x64.Build.0 = Release|x64
 		{A8B718F5-C138-4FFB-8F04-F889B86C25C9}.Release|x86.ActiveCfg = Release|Win32
 		{A8B718F5-C138-4FFB-8F04-F889B86C25C9}.Release|x86.Build.0 = Release|Win32
+		{848E1DF1-9393-4966-BB1B-E2D0228A21E9}.Debug|x64.ActiveCfg = Debug|x64
+		{848E1DF1-9393-4966-BB1B-E2D0228A21E9}.Debug|x64.Build.0 = Debug|x64
+		{848E1DF1-9393-4966-BB1B-E2D0228A21E9}.Debug|x86.ActiveCfg = Debug|Win32
+		{848E1DF1-9393-4966-BB1B-E2D0228A21E9}.Debug|x86.Build.0 = Debug|Win32
+		{848E1DF1-9393-4966-BB1B-E2D0228A21E9}.Release|x64.ActiveCfg = Release|x64
+		{848E1DF1-9393-4966-BB1B-E2D0228A21E9}.Release|x64.Build.0 = Release|x64
+		{848E1DF1-9393-4966-BB1B-E2D0228A21E9}.Release|x86.ActiveCfg = Release|Win32
+		{848E1DF1-9393-4966-BB1B-E2D0228A21E9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
